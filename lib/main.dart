@@ -40,7 +40,7 @@ class _EsScaffoldState extends State<EsScaffold> {
       drawer: Drawer(
         child: Column(mainAxisAlignment: MainAxisAlignment.center, children: <Widget>[
           FlutterLogo(size: 100.0), //fin flutter logo
-          Text('Drawer 1 de benitez'),
+          Text('Drawer 1 de cruz'),
         ] //fin de children
             ), //fin de el chil de drawer1
       ), //fin de el drawer1
